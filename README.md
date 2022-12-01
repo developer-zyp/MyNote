@@ -5,9 +5,7 @@ Android project with Kotlin Coroutines, Flow/LiveData and Jetpack(Room, ViewMode
 ## Tech stack
 - Kotlin Coroutines 
 - Flow/LiveData for asynchronous data
-<!--
-- Dagger for dependency injection
--->
+<!-- - Dagger for dependency injection -->
 - Jetpack:
   - Lifecycle
   - ViewModel
@@ -15,12 +13,12 @@ Android project with Kotlin Coroutines, Flow/LiveData and Jetpack(Room, ViewMode
 - Architecture:
   - MVVM Architecture
 - Navigation Component
-<!--
+<!-- 
 - Paging 3
 - Retrofit2 & OkHttp3
 - Gson
-- Picasso
--->
+- Picasso -->
+
 
 ## Screenshots
 <p float="left">
