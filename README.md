@@ -13,6 +13,7 @@ Android project with Kotlin Coroutines, Flow/LiveData and Jetpack(Room, ViewMode
 - Architecture:
   - MVVM Architecture
 - Navigation Component
+- ViewBinding
 <!-- 
 - Paging 3
 - Retrofit2 & OkHttp3
