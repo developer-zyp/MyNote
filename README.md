@@ -23,6 +23,6 @@ Android project with Kotlin Coroutines, Flow/LiveData and Jetpack(Room, ViewMode
 
 ## Screenshots
 <p float="left">
-<img src="images/Screenshot_1.jpeg" height="400"  alt="screenshot"/>
-<img src="images/Screenshot_2.jpeg" height="400"  alt="screenshot"/>
+<img src="images/Screenshot_1.jpeg" height="500"  alt="screenshot"/>
+<img src="images/Screenshot_2.jpeg" height="500"  alt="screenshot"/>
 </p>
