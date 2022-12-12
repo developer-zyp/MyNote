@@ -2,7 +2,7 @@
 Note Taking and Task Tracking App <br/>
 Android project with Kotlin Coroutines, Flow/LiveData and Jetpack(Room, ViewModel) based on MVVM architecture.
 
-## Tech stack
+## Tech Stack
 - Kotlin Coroutines 
 - Flow/LiveData for asynchronous data
 <!-- - Dagger for dependency injection -->
